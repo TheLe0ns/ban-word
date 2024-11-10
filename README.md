@@ -17,8 +17,11 @@
         'ш': 'w'       
 ## Установка          
 **Termux install**  
-```           
+```       
+apt upgrade
+apt update    
 pkg install git python       
+pip install colorama
 git clone https://github.com/TheLe0ns/ban-word.git       
 cd ban-word       
 python banword.py      
