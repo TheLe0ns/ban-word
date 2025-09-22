@@ -30,6 +30,7 @@ python banword.py
 ```
 **Установка на Windows**
 На компьютере должен быть python не ниже версии 3.7 скачать
+
 https://github.com/TheLe0ns/ban-word/archive/refs/heads/main.zip
 Установить билиотеки
 ```
